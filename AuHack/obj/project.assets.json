@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/madskastrupt.larsen/.nuget/packages/": {}
+    "/Users/rasmuschristensen/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/madskastrupt.larsen/aarhusUni/auhack/AuHack/AuHack/AuHack.csproj",
+      "projectUniqueName": "/Users/rasmuschristensen/RiderProjects/AuHack/AuHack/AuHack.csproj",
       "projectName": "AuHack",
-      "projectPath": "/Users/madskastrupt.larsen/aarhusUni/auhack/AuHack/AuHack/AuHack.csproj",
-      "packagesPath": "/Users/madskastrupt.larsen/.nuget/packages/",
-      "outputPath": "/Users/madskastrupt.larsen/aarhusUni/auhack/AuHack/AuHack/obj/",
+      "projectPath": "/Users/rasmuschristensen/RiderProjects/AuHack/AuHack/AuHack.csproj",
+      "packagesPath": "/Users/rasmuschristensen/.nuget/packages/",
+      "outputPath": "/Users/rasmuschristensen/RiderProjects/AuHack/AuHack/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/madskastrupt.larsen/.nuget/NuGet/NuGet.Config"
+        "/Users/rasmuschristensen/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/madskastrupt.larsen/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/rasmuschristensen/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
