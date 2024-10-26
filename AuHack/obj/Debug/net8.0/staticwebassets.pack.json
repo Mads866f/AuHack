@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/madskastrupt.larsen/aarhusUni/auhack/AuHack/AuHack/obj/Debug/net8.0/scopedcss/projectbundle/AuHack.bundle.scp.css",
+      "PackagePath": "staticwebassets/AuHack.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/madskastrupt.larsen/aarhusUni/auhack/AuHack/AuHack/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/madskastrupt.larsen/aarhusUni/auhack/AuHack/AuHack/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/madskastrupt.larsen/aarhusUni/auhack/AuHack/AuHack/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/madskastrupt.larsen/aarhusUni/auhack/AuHack/AuHack/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.AuHack.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.AuHack.props",
+      "PackagePath": "build\\AuHack.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.AuHack.props",
+      "PackagePath": "buildMultiTargeting\\AuHack.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.AuHack.props",
+      "PackagePath": "buildTransitive\\AuHack.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
